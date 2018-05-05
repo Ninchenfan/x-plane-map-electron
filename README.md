@@ -1,3 +1,7 @@
+# !!! IMPORTANT
+
+This fork is deprecated, see https://github.com/foucdeg/x-plane-map-electron/pull/14
+
 # X-Plane Map
 
 ## User instructions
